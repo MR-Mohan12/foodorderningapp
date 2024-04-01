@@ -1,0 +1,14 @@
+
+const Grocery = () =>{
+
+ 
+    return(
+        <h1>Our Grocery online Store
+            , And we have alot of child components inside this web page!!!
+        </h1>
+    )
+
+}
+
+ export default Grocery;
+
